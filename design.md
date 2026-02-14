@@ -6,13 +6,13 @@ Grameen Sathi AI will use a simple , user friendly three layer architecture mode
 A mobile frontend , a cloud based back-end  and an AI layer powered by an LLM through Amazon Bedrock.
 
 # WORKFLOW
-User Input -> Mobile Application -> AI Assistant -> Output
+User Input  -> AI Assistant -> Output
 The user asks questions through voice or text. The AI responds with simple step-by-step guidance on their queries.
 
 
 # TECH STACK
 
-## Frontend (Mobile App)
+## Frontend (AI CHATBOT)
 Native Android(Kotlin) for cross-platform support.
 Simple UI with voice input support.
 
