@@ -44,8 +44,3 @@ Voice-based interaction for low literacy users.
 Support for regional languages.
 Large buttons and clear icons.
 Minimal text and easy navigation.
-
-# FUTURE SCOPES
-Store user preferences as confidential data to improve personalization.
-Directly integrated into Amazon's website as an AI chatbot to guide rural sellers in real time.
-Scaled and offered to other e-commerce platforms, enabling cross-platform seller support.
